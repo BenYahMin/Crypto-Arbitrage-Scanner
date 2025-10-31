@@ -56,6 +56,6 @@ A sophisticated Python-based cryptocurrency arbitrage scanner that identifies pr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/bigben770/crypto-arbitrage-scanner.git
+   git clone https://github.com/BenYahMin/crypto-arbitrage-scanner.git
    cd crypto-arbitrage-scanner
    Still working on the code dropping soon
