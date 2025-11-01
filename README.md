@@ -1,6 +1,7 @@
 # 🚀 Crypto Arbitrage Scanner
 
 A sophisticated Python-based cryptocurrency arbitrage scanner that identifies profitable trading opportunities across multiple exchanges with real-time liquidity analysis.
+Still working on the liquidity though
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
